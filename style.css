@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kumbh-sans', sans-serif;
+}
+#topnav {
+    width: 100%;
+    background: #6ab0f1;
+    height: 60px;
+    position: relative;
+}
+
+.logo {
+    display: flex;
+    align-items: start;
+    justify-content: flex-start;
+    padding-top: 5px;
+    padding-left: 160px;
+    font-family: 'Carter One', cursive;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.search-container {
+    padding-right: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -25px;
+    cursor: pointer;
+}
+.showcase {
+    
+}
+
